@@ -26,7 +26,7 @@ $ python problem_2.py
 $ python problem_4.py
 ```
 
-### Running the solutions for problem 3 and 5
+### Running the solutions for problems 3 and 5
 
 The soultions for problems 3 and 5 are inside the subdirectories problem_3 and problem_5 along with their text files respectivly.
 
